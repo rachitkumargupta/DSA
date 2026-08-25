@@ -1,0 +1,17 @@
+array 
+agr jada cheze store karana ho
+list jaise me 
+
+toh array ka use hota hai
+
+java me 0 se hota isko zero based indexing bolte, isme 0 se hi hoti
+
+array is the list of element of same type placed in contiguoues memory location
+
+array pass by refernce
+agr koi array main funct me hai , phir dusre me update hua 
+vo har jagah reflect hoga 
+vo main m bhi update hojyega
+
+
+

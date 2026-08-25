@@ -1,0 +1,16 @@
+public class Q1 {
+    public static boolean Assignment1 (int num[]){
+        for( int i=0; i<num.length ; i++){
+            for(int j=i+1; j<num.length ; j++){
+                if (num[i] == num[j]){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    public static void main(String[] args) {
+        int num[] = {1,2,3,1};
+        System.out.println(Assignment1(num));
+    }
+}
